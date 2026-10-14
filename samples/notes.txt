@@ -1,0 +1,3 @@
+These are my project notes.
+Added a new note.
+Another note.
